@@ -1,5 +1,7 @@
 # a3-template
 
+Observable link: https://observablehq.com/@hspencer10/assignment-3-interactive-data-visualization
+
 Template for Assignment 3. It comes pre-loaded with D3 and Vega.
 
 ## Setup
